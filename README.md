@@ -1,4 +1,4 @@
-# BlueOrbit Pay
+# BlueOrbit PayLink Generator
 
 A lightweight, production-ready **UPI Payment Link Generator** built with React, TypeScript, Vite, and Supabase. Generate shareable payment links and QR codes in seconds — no payment gateway, no KYC, just links.
 
