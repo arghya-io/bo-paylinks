@@ -201,3 +201,8 @@ Row Level Security is enabled. Public read and insert policies allow unauthentic
 ## License
 
 MIT — free to use, modify, and distribute.
+
+## *Disclosure
+
+This project is for educational/demo purposes.
+Not intended for real financial transactions without proper compliance.
